@@ -8,7 +8,7 @@ if(typeof value == "number" && !isNaN(value)){
   } else if (value % 2 == 0){
     console.log('чётное')
   } else {
-    console.log('нечётное')
+    console.log('нечётноеblah')
   }
 } else {
   console.log('Упс, кажется, вы ошиблись')
